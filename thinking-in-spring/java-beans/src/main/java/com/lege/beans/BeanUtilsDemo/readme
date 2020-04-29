@@ -1,0 +1,3 @@
+    内省操作非常的繁琐，所以所以Apache开发了一套简单、易用的API来操作Bean的属性——BeanUtils工具包。
+　　BeanUtils工具包：下载：http://commons.apache.org/beanutils/，
+    注意：应用的时候还需要一个logging包http://commons.apache.org/logging/

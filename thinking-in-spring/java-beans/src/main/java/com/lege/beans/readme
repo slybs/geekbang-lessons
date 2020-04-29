@@ -1,0 +1,3 @@
+JAVA中反射机制（JavaBean的内省与BeanUtils库）
+内省(Introspector) 是Java 语言对JavaBean类属性、事件的一种缺省处理方法。
+Java JDK中提供了一套API用来访问某个属性的getter/setter方法，这就是内省。
